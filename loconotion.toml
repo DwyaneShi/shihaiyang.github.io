@@ -42,7 +42,8 @@ page = "https://www.notion.so/haiyangshi/Haiyang-Shi-3e379ea6738d4cc38cbef0031ed
   #   body: non-heading text on the page
   #   code: text inside code blocks
   [site.fonts]
-  site = 'Nunito'
+  # site = 'Nunito'
+  site = ''
   navbar = ''
   title = 'Montserrat'
   h1 = 'Montserrat'
